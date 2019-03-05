@@ -1,0 +1,5 @@
+name: OCoolTNT
+version: 1.0-SNAPSHOT
+author: ItmanHunter
+main: com.ocoolcraft.plugin.OCoolTNT
+api-version: 1.8.8
